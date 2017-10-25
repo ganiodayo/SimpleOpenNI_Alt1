@@ -1,4 +1,4 @@
-package SimpleOculusRift;
+package SimpleOpenNI;
 
 public class StrVector
 {
