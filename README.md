@@ -1,5 +1,5 @@
 # SimpleOpenNI
-fix: compatible with processing 3
+fix: compatible with Processing 3
 
 ```
 Tested: 
